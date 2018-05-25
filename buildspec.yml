@@ -2,6 +2,7 @@ version: 0.2
 
 phases:
   install:
+    # hoge
     commands:
       - echo Entered the install phase...
     commands:
